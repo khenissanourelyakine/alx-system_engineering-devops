@@ -1,2 +1,3 @@
 #!/bin/bash
-cd~
+cd ~
+echo "Changed directory to $HOME"
